@@ -4,7 +4,7 @@
   </Entry>
   <Entry>
     <Key>HintPage_WashingtonDC_Markham_GetPassword_Question</Key>
-    <Value>I need to see Markham's e-mail. First I'll need his password.</Value>
+    <Value>Musím si přečíst Markhamův e-mail. Napřed ale potřebuji jeho heslo.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_WashingtonDC_Markham_GetPassword_Answer_1</Key>
@@ -21,7 +21,7 @@
   </Entry>
   <Entry>
     <Key>HintPage_WashingtonDC_Markham_TalkToMarkham_Question</Key>
-    <Value>Markham knew about Helene. I need to question him.</Value>
+    <Value>Markham o Helene. Musím ho vyslechnout.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_WashingtonDC_Markham_TalkToMarkham_Answer_1</Key>
@@ -30,15 +30,15 @@
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandraLorraine_AnalyzeAlessandra_Category</Key>
-    <Value>ZURICH</Value>
+    <Value>CURYCH</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandraLorraine_AnalyzeAlessandra_Title</Key>
-    <Value>ALESSANDRA LORRAINE</Value>
+    <Value>ALESSANDRA LOTRINSKÁ</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandraLorraine_AnalyzeAlessandra_Question</Key>
-    <Value>Complete analysis on Alessandra Lorraine.</Value>
+    <Value>Kompletní analýza Alessandry Lotrinské.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandraLorraine_AnalyzeAlessandra_Answer_1</Key>
@@ -47,15 +47,15 @@
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandraLorraine_GetAlessandrasPhone_Category</Key>
-    <Value>ZURICH</Value>
+    <Value>CURYCH</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandraLorraine_GetAlessandrasPhone_Title</Key>
-    <Value>ALESSANDRA LORRAINE</Value>
+    <Value>ALESSANDRA LOTRINSKÁ</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandraLorraine_GetAlessandrasPhone_Question</Key>
-    <Value>Get Alessandra's phone. Perhaps Walker can be of assistance. </Value>
+    <Value>Získat Alessandřin telefon. Možná mi dokáže pomoci Walker.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandraLorraine_GetAlessandrasPhone_Answer_1</Key>
@@ -64,15 +64,15 @@
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandraLorraine_InterviewPeople_Category</Key>
-    <Value>ZURICH</Value>
+    <Value>CURYCH</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandraLorraine_InterviewPeople_Title</Key>
-    <Value>ALESSANDRA LORRAINE</Value>
+    <Value>ALESSANDRA LOTRINSKÁ</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandraLorraine_InterviewPeople_Question</Key>
-    <Value>Interview Alessandra, her family, and members of the household. </Value>
+    <Value>Promluvit si Alessandrou, její rodinou a členy její domácnosti.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandraLorraine_InterviewPeople_Answer_1</Key>
@@ -81,15 +81,15 @@
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandrasMeeting_FindJasmine_Category</Key>
-    <Value>ZURICH</Value>
+    <Value>CURYCH</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandrasMeeting_FindJasmine_Title</Key>
-    <Value>ALESSANDRA'S MEETING</Value>
+    <Value>ALESSANDŘINA SCHŮZKA</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandrasMeeting_FindJasmine_Question</Key>
-    <Value>White jasmine flowers seem to be a favorite of Alessandra's--find some to give her.</Value>
+    <Value>Zdá se, že bílé jasmíny jsou Alessandřiny oblíbené--pár jich sežeň jako dárek pro ni.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandrasMeeting_FindJasmine_Answer_1</Key>
@@ -98,15 +98,15 @@
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandrasMeeting_GetAlessandraToMeeting_Category</Key>
-    <Value>ZURICH</Value>
+    <Value>CURYCH</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandrasMeeting_GetAlessandraToMeeting_Title</Key>
-    <Value>ALESSANDRA'S MEETING</Value>
+    <Value>ALESSANDŘINA SCHŮZKA</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandrasMeeting_GetAlessandraToMeeting_Question</Key>
-    <Value>Make sure Alessandra goes to this rendevous. She wants an apology. Flowers usually work for that sort of thing. </Value>
+    <Value>Ujisti se, že Alessandra dorazí na schůzku. Chce omluvu. Květiny v takovýchto situací zpravidla zabírají.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandrasMeeting_GetAlessandraToMeeting_Answer_1</Key>
@@ -115,15 +115,15 @@
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandrasMeeting_GetUnknownToMeeting_Category</Key>
-    <Value>ZURICH</Value>
+    <Value>CURYCH</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandrasMeeting_GetUnknownToMeeting_Title</Key>
-    <Value>ALESSANDRA'S MEETING</Value>
+    <Value>ALESSANDŘINA SCHŮZKA</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandrasMeeting_GetUnknownToMeeting_Question</Key>
-    <Value>Make sure 'Unknown' attends the meeting with Alessandra. </Value>
+    <Value>Zajisti, aby 'Neznámý' dorazil na schůzku s Alessandrou.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandrasMeeting_GetUnknownToMeeting_Answer_1</Key>
@@ -132,15 +132,15 @@
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandrasMeeting_LearnThreeGongs_Category</Key>
-    <Value>ZURICH</Value>
+    <Value>CURYCH</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandrasMeeting_LearnThreeGongs_Title</Key>
-    <Value>ALESSANDRA'S MEETING</Value>
+    <Value>ALESSANDŘINA SCHŮZKA</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandrasMeeting_LearnThreeGongs_Question</Key>
-    <Value>Find out what 'Three Gongs' means. Someone in the house must know.</Value>
+    <Value>Zjisti, co znamenají 'Tři gongy'. Někdo v domě to musí vědět.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandrasMeeting_LearnThreeGongs_Answer_1</Key>
@@ -149,15 +149,15 @@
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandrasMeeting_MakeBouquet_Category</Key>
-    <Value>ZURICH</Value>
+    <Value>CURYCH</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandrasMeeting_MakeBouquet_Title</Key>
-    <Value>ALESSANDRA'S MEETING</Value>
+    <Value>ALESSANDŘINA SCHŮZKA</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandrasMeeting_MakeBouquet_Question</Key>
-    <Value>Dress up the bouquet and place it where Alessandra will find it.</Value>
+    <Value>Zabal pugét a polož ho na místo, kde ho Alessandra určitě najde.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_AlessandrasMeeting_MakeBouquet_Answer_1</Key>
@@ -166,15 +166,15 @@
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HeleneBernadotte_AnalyzeHelene_Category</Key>
-    <Value>ZURICH</Value>
+    <Value>CURYCH</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HeleneBernadotte_AnalyzeHelene_Title</Key>
-    <Value>HELENE BERNADOTTE</Value>
+    <Value>HELENE BERNADOTTOVÁ</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HeleneBernadotte_AnalyzeHelene_Question</Key>
-    <Value>Complete analysis on Helene Bernadotte.</Value>
+    <Value>Kompletní analýza Helene Bernadottové.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HeleneBernadotte_AnalyzeHelene_Answer_1</Key>
@@ -183,15 +183,15 @@
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HeleneBernadotte_DecipherPostIt_Category</Key>
-    <Value>ZURICH</Value>
+    <Value>CURYCH</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HeleneBernadotte_DecipherPostIt_Title</Key>
-    <Value>HELENE BERNADOTTE</Value>
+    <Value>HELENE BERNADOTTOVÁ</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HeleneBernadotte_DecipherPostIt_Question</Key>
-    <Value>Determine what the coordinates on the post-it mean.</Value>
+    <Value>Zjisti, co znamenají koordináty na lístečku.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HeleneBernadotte_DecipherPostIt_Answer_1</Key>
@@ -200,15 +200,15 @@
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HeleneBernadotte_LearnMore_Category</Key>
-    <Value>ZURICH</Value>
+    <Value>CURYCH</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HeleneBernadotte_LearnMore_Title</Key>
-    <Value>HELENE BERNADOTTE</Value>
+    <Value>HELENE BERNADOTTOVÁ</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HeleneBernadotte_LearnMore_Question</Key>
-    <Value>Learn more about Alessandra's sister.</Value>
+    <Value>Zjisti více o Alessandřině sestře.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HeleneBernadotte_LearnMore_Answer_1</Key>
@@ -217,15 +217,15 @@
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HeleneBernadotte_MakeAmends_Category</Key>
-    <Value>ZURICH</Value>
+    <Value>CURYCH</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HeleneBernadotte_MakeAmends_Title</Key>
-    <Value>HELENE BERNADOTTE</Value>
+    <Value>HELENE BERNADOTTOVÁ</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HeleneBernadotte_MakeAmends_Question</Key>
-    <Value>Make amends to Helene. Retrieving her dropped glove may help.</Value>
+    <Value>Usmiř se s Helene. Nalezení její ztracené rukavice by mohlo pomoci.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HeleneBernadotte_MakeAmends_Answer_1</Key>
@@ -234,15 +234,15 @@
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HeleneBernadotte_TouchHelene_Category</Key>
-    <Value>ZURICH</Value>
+    <Value>CURYCH</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HeleneBernadotte_TouchHelene_Title</Key>
-    <Value>HELENE BERNADOTTE</Value>
+    <Value>HELENE BERNADOTTOVÁ</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HeleneBernadotte_TouchHelene_Question</Key>
-    <Value>Find a way to touch Helene's hand. There's something about her.</Value>
+    <Value>Najdi způsob, jak se dotknout Heleniny ruky. Něco na ní nesedí.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HeleneBernadotte_TouchHelene_Answer_1</Key>
@@ -251,15 +251,15 @@
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HeleneBernadotte_VisitRoom_Category</Key>
-    <Value>ZURICH</Value>
+    <Value>CURYCH</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HeleneBernadotte_VisitRoom_Title</Key>
-    <Value>HELENE BERNADOTTE</Value>
+    <Value>HELENE BERNADOTTOVÁ</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HeleneBernadotte_VisitRoom_Question</Key>
-    <Value>Helene is Livia, but I need to research her further to confirm it. Check out her room.</Value>
+    <Value>Helene a Livia jsou tatáž osoba, ale musím se v tom ujistit. Zkontroluj její pokoj.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HeleneBernadotte_VisitRoom_Answer_1</Key>
@@ -268,15 +268,15 @@
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HelenesCellphone_LearnPassword_Category</Key>
-    <Value>ZURICH</Value>
+    <Value>CURYCH</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HelenesCellphone_LearnPassword_Title</Key>
-    <Value>HELENE'S CELLPHONE</Value>
+    <Value>HELENIN MOBIL</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HelenesCellphone_LearnPassword_Question</Key>
-    <Value>Figure out the password for Helene's cellphone.</Value>
+    <Value>Zjisti heslo k Heleninu mobilu.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HelenesCellphone_LearnPassword_Answer_1</Key>
@@ -285,15 +285,15 @@
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HelenesCellphone_TraceNumber_Category</Key>
-    <Value>ZURICH</Value>
+    <Value>CURYCH</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HelenesCellphone_TraceNumber_Title</Key>
-    <Value>HELENE'S CELLPHONE</Value>
+    <Value>HELENIN MOBIL</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HelenesCellphone_TraceNumber_Question</Key>
-    <Value>Trace the number that Helene was texting and find out who she was having the affair with. May need help.</Value>
+    <Value>Vysleduj číslo, kterému Helene psala a zjisti s kým měla poměr. Možná budeš potřebovat pomoc.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_HelenesCellphone_TraceNumber_Answer_1</Key>
@@ -302,15 +302,15 @@
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_KarlLorraine_ProvideCake_Category</Key>
-    <Value>ZURICH</Value>
+    <Value>CURYCH</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_KarlLorraine_ProvideCake_Title</Key>
-    <Value>KARL LORRAINE</Value>
+    <Value>KARL LOTRINSKÝ</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_KarlLorraine_ProvideCake_Question</Key>
-    <Value>Karl needs motivation to talk with me. He mentioned wanting cake.</Value>
+    <Value>Karl musí mít důvod, aby se se mnou bavil. Zmínil, že chce dort.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_KarlLorraine_ProvideCake_Answer_1</Key>
@@ -319,15 +319,15 @@
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_KarlLorraine_ProvideMeds_Category</Key>
-    <Value>ZURICH</Value>
+    <Value>CURYCH</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_KarlLorraine_ProvideMeds_Title</Key>
-    <Value>KARL LORRAINE</Value>
+    <Value>KARL LOTRINSKÝ</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_KarlLorraine_ProvideMeds_Question</Key>
-    <Value>The cake has loosened his tongue, but some pharmaceuticals might loosen it further.</Value>
+    <Value>Dort mu trochu rozvázal jazyk, ale farmaceutika mu ho mohou rozvázat ještě víc.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_KarlLorraine_ProvideMeds_Answer_1</Key>
@@ -336,15 +336,15 @@
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_Telescope_IdentifyImage_Category</Key>
-    <Value>ZURICH</Value>
+    <Value>CURYCH</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_Telescope_IdentifyImage_Title</Key>
-    <Value>TELESCOPE</Value>
+    <Value>TELESKOP</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_Telescope_IdentifyImage_Question</Key>
-    <Value>Identify the image from Helene's telescope.</Value>
+    <Value>Identifikuj obraz z Helenina teleskopu.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_Telescope_IdentifyImage_Answer_1</Key>
@@ -353,15 +353,15 @@
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_Telescope_IdentifyImages_Category</Key>
-    <Value>ZURICH</Value>
+    <Value>CURYCH</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_Telescope_IdentifyImages_Title</Key>
-    <Value>TELESCOPE</Value>
+    <Value>TELESKOP</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_Telescope_IdentifyImages_Question</Key>
-    <Value>Identify the images from Helene's telescope.</Value>
+    <Value>Identifikuj obrazy z Helenina teleskopu.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Zurich_Telescope_IdentifyImages_Answer_1</Key>
@@ -370,7 +370,7 @@
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_Abstract_Category</Key>
-    <Value>Alessandra Lorraine</Value>
+    <Value>Alessandra Lotrinská</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_Abstract_Title</Key>
@@ -384,12 +384,12 @@
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_Abstract_Answer_1</Key>
-    <Value><![CDATA[FITA, Amble Dexter
-Zurich, Switzerland]]></Value>
+    <Value><![CDATA[ABZT, Amble Dexter
+Curych, Švýcarsko]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Ambitious_Category</Key>
-    <Value>Alessandra Lorraine</Value>
+    <Value>Alessandra Lotrinská</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Ambitious_Title</Key>
@@ -398,15 +398,15 @@ Zurich, Switzerland]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Ambitious_Question</Key>
-    <Value>Politics</Value>
+    <Value>Politika</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Ambitious_Answer_1</Key>
-    <Value>She is not interested in politics despite her husband being a politician and has primarily social interests.</Value>
+    <Value>Přestože její manžel je politik, nezajímá se o politiku a má hlavně společenské zájmy.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Beautiful_Category</Key>
-    <Value>Alessandra Lorraine</Value>
+    <Value>Alessandra Lotrinská</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Beautiful_Title</Key>
@@ -415,15 +415,15 @@ Zurich, Switzerland]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Beautiful_Question</Key>
-    <Value>Beautiful</Value>
+    <Value>Krásná</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Beautiful_Answer_1</Key>
-    <Value>So beautiful, she did some fashion modeling when she was very young.</Value>
+    <Value>Velice krásná, zamlada dokonce dělala modelku.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Bloodlines_Category</Key>
-    <Value>Alessandra Lorraine</Value>
+    <Value>Alessandra Lotrinská</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Bloodlines_Title</Key>
@@ -432,15 +432,15 @@ Zurich, Switzerland]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Bloodlines_Question</Key>
-    <Value>Bloodlines</Value>
+    <Value>Rodová linie</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Bloodlines_Answer_1</Key>
-    <Value>She is descended on her father's side from the Hapsburgs and the Bernadottes, two families of old European nobility.</Value>
+    <Value>Z otcovy strany je potomkem Habsburků a Bernadottů, dvou starých evropských šlechtických rodů.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Chaste_Category</Key>
-    <Value>Alessandra Lorraine</Value>
+    <Value>Alessandra Lotrinská</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Chaste_Title</Key>
@@ -449,15 +449,15 @@ Zurich, Switzerland]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Chaste_Question</Key>
-    <Value>Chaste</Value>
+    <Value>Cudná</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Chaste_Answer_1</Key>
-    <Value>She is having an affair with a man in her family's employ.</Value>
+    <Value>Má poměr s někým ze službnictva její rodiny.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Designer_Category</Key>
-    <Value>Alessandra Lorraine</Value>
+    <Value>Alessandra Lotrinská</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Designer_Title</Key>
@@ -466,15 +466,15 @@ Zurich, Switzerland]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Designer_Question</Key>
-    <Value>Designer</Value>
+    <Value>Návrhářka</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Designer_Answer_1</Key>
-    <Value>She wants to be a fashion designer.</Value>
+    <Value>Chce se stát módní návhrářkou.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_FirstChild_Category</Key>
-    <Value>Alessandra Lorraine</Value>
+    <Value>Alessandra Lotrinská</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_FirstChild_Title</Key>
@@ -483,15 +483,15 @@ Zurich, Switzerland]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_FirstChild_Question</Key>
-    <Value>First Child</Value>
+    <Value>Prvorozený</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_FirstChild_Answer_1</Key>
-    <Value>Had her first son, Laurent, at a young age for the time – 22.</Value>
+    <Value>Svého prvního syna měla, na tu dobu, v mladém věku -- 22 letech.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Husband_Category</Key>
-    <Value>Alessandra Lorraine</Value>
+    <Value>Alessandra Lotrinská</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Husband_Title</Key>
@@ -500,15 +500,15 @@ Zurich, Switzerland]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Husband_Question</Key>
-    <Value>Husband</Value>
+    <Value>Manžel</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Husband_Answer_1</Key>
-    <Value>Her husband is descended from the Lorraines, cousins of the same royal bloodline as her father, the Hapsburgs.</Value>
+    <Value>Její manžel je potomek Lotrinských, bratranců stejné rodové linie, ze které pochází její otec, Habsburků.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Jealousy_Category</Key>
-    <Value>Alessandra Lorraine</Value>
+    <Value>Alessandra Lotrinská</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Jealousy_Title</Key>
@@ -517,15 +517,15 @@ Zurich, Switzerland]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Jealousy_Question</Key>
-    <Value>Jealousy</Value>
+    <Value>Žárlivost</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Jealousy_Answer_1</Key>
-    <Value>She is extremely petty and jealous of her lover's flirtations.</Value>
+    <Value>Je extrémně malicherná a žárlivá na flirtování svého milence.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Married_Category</Key>
-    <Value>Alessandra Lorraine</Value>
+    <Value>Alessandra Lotrinská</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Married_Title</Key>
@@ -534,15 +534,15 @@ Zurich, Switzerland]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Married_Question</Key>
-    <Value>Married</Value>
+    <Value>Vdaná</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Married_Answer_1</Key>
-    <Value>She was married to a 47-year-old man at age 21.</Value>
+    <Value>V 21 se vdala za 47letého muže.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Sister_Category</Key>
-    <Value>Alessandra Lorraine</Value>
+    <Value>Alessandra Lotrinská</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Sister_Title</Key>
@@ -551,15 +551,15 @@ Zurich, Switzerland]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Sister_Question</Key>
-    <Value>Sister</Value>
+    <Value>Sestra</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Sister_Answer_1</Key>
-    <Value>She has one sibling, a sister, that's one year younger.</Value>
+    <Value>Má pouze jedno sourozence, o rok mladší sestru.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Unpopular_Category</Key>
-    <Value>Alessandra Lorraine</Value>
+    <Value>Alessandra Lotrinská</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Unpopular_Title</Key>
@@ -568,15 +568,15 @@ Zurich, Switzerland]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Unpopular_Question</Key>
-    <Value>Unpopular</Value>
+    <Value>Neoblíbená</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Unpopular_Answer_1</Key>
-    <Value>Due to her husband's unpopular politics, they've kept out of the public eye.</Value>
+    <Value>Kvůli nepopulární politice svého manžela se drží v ústraní před veřejností.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Wealthy_Category</Key>
-    <Value>Alessandra Lorraine</Value>
+    <Value>Alessandra Lotrinská</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Wealthy_Title</Key>
@@ -585,15 +585,15 @@ Zurich, Switzerland]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Wealthy_Question</Key>
-    <Value>Wealthy</Value>
+    <Value>Zámožná</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_DataPoint_Wealthy_Answer_1</Key>
-    <Value>Her family and her husband's family are among the wealthiest in Europe.</Value>
+    <Value>Její rodina a rodina jejího manžela patří k nejzámožnějším v Evropě.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_Section1_Category</Key>
-    <Value>Alessandra Lorraine</Value>
+    <Value>Alessandra Lotrinská</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_Section1_Title</Key>
@@ -602,15 +602,15 @@ Zurich, Switzerland]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_Section1_Question</Key>
-    <Value>BACKGROUND</Value>
+    <Value>POPIS</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_Section1_Answer_1</Key>
-    <Value>A daughter of the Bernadotte family, descended from that line as well as the Hapsburgs. Married at age 21 to Karl Lorraine, then 47, also descended from the royal line of the Hapsburgs. She and Karl have a son.</Value>
+    <Value>Dcera z rodiny Bernadottů, její pokrevní příbuzní jsou také Habsburkové. V 21 letech se provdala za 47letého Karla Lorraina, který rovněž pochází z královského rodu Habsburků. S Karlem má syna.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_Section2_Category</Key>
-    <Value>Alessandra Lorraine</Value>
+    <Value>Alessandra Lotrinská</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_Section2_Title</Key>
@@ -619,15 +619,15 @@ Zurich, Switzerland]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_Section2_Question</Key>
-    <Value>JOB</Value>
+    <Value>ZAMĚSTNÁNÍ</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_Section2_Answer_1</Key>
-    <Value>Determine if Alessandra's life pattern fits that of Livia Drusilla.</Value>
+    <Value>Rozhodni, jestli Alessandřiv životní příběh se slučuje s životem Livie Drusilly.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_Section3_Category</Key>
-    <Value>Alessandra Lorraine</Value>
+    <Value>Alessandra Lotrinská</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_Section3_Title</Key>
@@ -636,15 +636,15 @@ Zurich, Switzerland]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_Section3_Question</Key>
-    <Value>CONTACT DETAILS</Value>
+    <Value>DETAILY KONTAKTU</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_Section3_Answer_1</Key>
-    <Value>The Lorraine mansion in Zurich. Property of Alessandra's husband, Karl Lorraine.</Value>
+    <Value>Sídlo Lotrinských v Curychu. Majetek Alessandřina manžela, Karla Lotrinského.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_Section4_Category</Key>
-    <Value>Alessandra Lorraine</Value>
+    <Value>Alessandra Lotrinská</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_Section4_Title</Key>
@@ -653,15 +653,15 @@ Zurich, Switzerland]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_Section4_Question</Key>
-    <Value>RECTOR ANALYSIS</Value>
+    <Value>RECTOROVA ANALÝZA</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_AlessandraLorraine_Section4_Answer_1</Key>
-    <Value>Alessandra is not Livia Drusilla -- she has none of the woman's interest and acumen for politics, she's unfaithful, and she's extremely jealous of her lover's other flirtations.</Value>
+    <Value>Alessandra není Livia Drusilla -- nesdílí její zájem a nadání pro politiku, je nevěrná a je extrémně žárlivá k flirtování jejího milence.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_Abstract_Category</Key>
-    <Value>Bianca Cardolo</Value>
+    <Value>Bianca Cardolová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_Abstract_Title</Key>
@@ -674,12 +674,12 @@ Zurich, Switzerland]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_Abstract_Answer_1</Key>
-    <Value><![CDATA[F.I.T.A.
-Venice, Italy]]></Value>
+    <Value><![CDATA[A.B.Z.T.
+Benátky, Itálie]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Ambitious_Category</Key>
-    <Value>Bianca Cardolo</Value>
+    <Value>Bianca Cardolová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Ambitious_Title</Key>
@@ -687,15 +687,15 @@ Venice, Italy]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Ambitious_Question</Key>
-    <Value>AMBITIOUS</Value>
+    <Value>AMBICIÓZNÍ</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Ambitious_Answer_1</Key>
-    <Value>Bianca's dream was to be married to a powerful, political man.</Value>
+    <Value>Biančin sen byl vdát se za mocného politika.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Beautiful_Category</Key>
-    <Value>Bianca Cardolo</Value>
+    <Value>Bianca Cardolová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Beautiful_Title</Key>
@@ -703,15 +703,15 @@ Venice, Italy]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Beautiful_Question</Key>
-    <Value>BEAUTIFUL</Value>
+    <Value>KRÁSNÁ</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Beautiful_Answer_1</Key>
-    <Value>She was often referred to as "the most beautiful woman" in her home city.</Value>
+    <Value>V jejím rodném městě ji často nazývali "nejkrásnější ženou".</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Bloodlines_Category</Key>
-    <Value>Bianca Cardolo</Value>
+    <Value>Bianca Cardolová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Bloodlines_Title</Key>
@@ -719,16 +719,16 @@ Venice, Italy]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Bloodlines_Question</Key>
-    <Value><![CDATA[BLOODLINES
+    <Value><![CDATA[RODOVÉ LINIE
 ]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Bloodlines_Answer_1</Key>
-    <Value>Her father was from two of the most prestigious Italian bloodlines. [Capetian, Savoy] Savoy – Italian royal family for centuries til WWII.</Value>
+    <Value>Její otec pocházel ze dvou nejprestižnějších italských rodů. [Kapetovci, Savojští] Savojští – italská královská rodina až do druhé světové války.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Dance_Category</Key>
-    <Value>Bianca Cardolo</Value>
+    <Value>Bianca Cardolová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Dance_Title</Key>
@@ -736,15 +736,15 @@ Venice, Italy]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Dance_Question</Key>
-    <Value>DANCE</Value>
+    <Value>TANEC</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Dance_Answer_1</Key>
-    <Value>She loved to dance and was a talented ballerina.</Value>
+    <Value>Milovala tanec a byla talentovaná balerína.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_FirstChild_Category</Key>
-    <Value>Bianca Cardolo</Value>
+    <Value>Bianca Cardolová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_FirstChild_Title</Key>
@@ -752,15 +752,15 @@ Venice, Italy]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_FirstChild_Question</Key>
-    <Value>FIRST CHILD</Value>
+    <Value>PRVNÍ DÍTĚ</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_FirstChild_Answer_1</Key>
-    <Value>At age 19 she had a son.</Value>
+    <Value>V 19 letech se jí narodil syn.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Hands_Category</Key>
-    <Value>Bianca Cardolo</Value>
+    <Value>Bianca Cardolová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Hands_Title</Key>
@@ -768,15 +768,15 @@ Venice, Italy]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Hands_Question</Key>
-    <Value>HANDS</Value>
+    <Value>RUCE</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Hands_Answer_1</Key>
-    <Value>Bianca’s hands were overly large and had a skin condition.</Value>
+    <Value>Biančiny ruce byly neproporčně velké a měla kožní onemocnění.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Husband_Category</Key>
-    <Value>Bianca Cardolo</Value>
+    <Value>Bianca Cardolová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Husband_Title</Key>
@@ -784,15 +784,15 @@ Venice, Italy]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Husband_Question</Key>
-    <Value>HUSBAND</Value>
+    <Value>MANŽEL</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Husband_Answer_1</Key>
-    <Value>Husband was descended from same prestigious bloodline as father.</Value>
+    <Value>Manžel pocházel ze stejné prestižní rodiny jako jejíé otec.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Married_Category</Key>
-    <Value>Bianca Cardolo</Value>
+    <Value>Bianca Cardolová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Married_Title</Key>
@@ -800,15 +800,15 @@ Venice, Italy]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Married_Question</Key>
-    <Value>MARRIED</Value>
+    <Value>VDANÁ</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Married_Answer_1</Key>
-    <Value>She married at age 18 to a 43-year-old politician.</Value>
+    <Value>V 18 letech se vdala za 43letého politika.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Mother_Category</Key>
-    <Value>Bianca Cardolo</Value>
+    <Value>Bianca Cardolová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Mother_Title</Key>
@@ -816,15 +816,15 @@ Venice, Italy]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Mother_Question</Key>
-    <Value>MOTHER</Value>
+    <Value>MATKA</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Mother_Answer_1</Key>
-    <Value>Her mother was the daughter of a respected magistrate.</Value>
+    <Value>Její matka byla dcerou váženého úředníka.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Murdered_Category</Key>
-    <Value>Bianca Cardolo</Value>
+    <Value>Bianca Cardolová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Murdered_Title</Key>
@@ -832,15 +832,15 @@ Venice, Italy]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Murdered_Question</Key>
-    <Value>MURDERED</Value>
+    <Value>ZAVRAŽDĚNA</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Murdered_Answer_1</Key>
-    <Value>Murdered at age 21 by hanging.</Value>
+    <Value>Zavražděna v 21 letech oběšením.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_SecondChild_Category</Key>
-    <Value>Bianca Cardolo</Value>
+    <Value>Bianca Cardolová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_SecondChild_Title</Key>
@@ -848,15 +848,15 @@ Venice, Italy]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_SecondChild_Question</Key>
-    <Value>SECOND CHILD</Value>
+    <Value>DRUHÉ DÍTĚ</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_SecondChild_Answer_1</Key>
-    <Value>She got pregnant with her second child at age 21.</Value>
+    <Value>V 21 letech čekala druhé dítě.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Unpopular_Category</Key>
-    <Value>Bianca Cardolo</Value>
+    <Value>Bianca Cardolová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Unpopular_Title</Key>
@@ -864,15 +864,15 @@ Venice, Italy]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Unpopular_Question</Key>
-    <Value>UNPOPULAR</Value>
+    <Value>NEOBLÍBENÁ</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Unpopular_Answer_1</Key>
-    <Value>Her husband was unpopular due to his politics.</Value>
+    <Value>Její manžel by nepopulární pro své politické postoje.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Wealthy_Category</Key>
-    <Value>Bianca Cardolo</Value>
+    <Value>Bianca Cardolová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Wealthy_Title</Key>
@@ -880,15 +880,15 @@ Venice, Italy]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Wealthy_Question</Key>
-    <Value>WEALTHY</Value>
+    <Value>ZÁMOŽNÁ</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_DataPoint_Wealthy_Answer_1</Key>
-    <Value>Her family was among the most wealthy in Europe.</Value>
+    <Value>Její rodina patří k nejzámožnějším v Evropě.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_Section1_Category</Key>
-    <Value>Bianca Cardolo</Value>
+    <Value>Bianca Cardolová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_Section1_Title</Key>
@@ -896,15 +896,15 @@ Venice, Italy]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_Section1_Question</Key>
-    <Value>BACKGROUND</Value>
+    <Value>POPIS</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_Section1_Answer_1</Key>
-    <Value><![CDATA[Bianca Cardolo was murdered one week ago in her hometown of Venice, Italy.  She was found hanging from a canal bridge.]]></Value>
+    <Value><![CDATA[Bianca Cardolová byla před týdnem zavražděna ve svém rodném městě, Benátkách v Itálii.  Našli ji oběšenou na mostě přes kanál.]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_Section2_Category</Key>
-    <Value>Bianca Cardolo</Value>
+    <Value>Bianca Cardolová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_Section2_Title</Key>
@@ -912,15 +912,15 @@ Venice, Italy]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_Section2_Question</Key>
-    <Value>JOB</Value>
+    <Value>ZAMĚSTNÁNÍ</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_Section2_Answer_1</Key>
-    <Value>Determine if Bianca Cardolo's life was similar to that of any famous women in history.</Value>
+    <Value>Urči, zda život Bianky Cardolové byl podobný některému ze slavných historických žen.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_Section3_Category</Key>
-    <Value>Bianca Cardolo</Value>
+    <Value>Bianca Cardolová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_Section3_Title</Key>
@@ -928,16 +928,16 @@ Venice, Italy]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_Section3_Question</Key>
-    <Value>CONTACT DETAILS</Value>
+    <Value>DETAILY KONTAKTU</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_Section3_Answer_1</Key>
-    <Value><![CDATA[Signore Dante Cardolo (husband): Canal Castillo 301
-Detective Brunetta (in charge of police case): +39 041 555811]]></Value>
+    <Value><![CDATA[Signore Dante Cardolo (manžel): Canal Castillo 301
+Detective Brunetta (velitel policejního vyšetřování): +39 041 555811]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_Section4_Category</Key>
-    <Value>Bianca Cardolo</Value>
+    <Value>Bianca Cardolová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_Section4_Title</Key>
@@ -945,15 +945,15 @@ Detective Brunetta (in charge of police case): +39 041 555811]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_Section4_Question</Key>
-    <Value>RECTOR ANALYSIS</Value>
+    <Value>RECTOROVA ANALÝZA</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_BiancaCardolo_Section4_Answer_1</Key>
-    <Value>The closest historic match is Livia Drusilla, wife of Roman Emperor Augustus, but there are two significant data points that don't match.</Value>
+    <Value>Nejbližší historická shoda je Livia Drusilla, manželka římského císaře Augusta, ale dva důležité údaje se neshodují.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CanopicChest_Abstract_Category</Key>
-    <Value>Canopic Chest</Value>
+    <Value>Kanopická schrána</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CanopicChest_Abstract_Title</Key>
@@ -966,12 +966,12 @@ Detective Brunetta (in charge of police case): +39 041 555811]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CanopicChest_Abstract_Answer_1</Key>
-    <Value><![CDATA[Rutherford's
-Cairo, Egypt]]></Value>
+    <Value><![CDATA[Rutherfordovy starožitnosti
+Káhira, Egypt]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CanopicChest_Section1_Category</Key>
-    <Value>Canopic Chest</Value>
+    <Value>Kanopická schrána</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CanopicChest_Section1_Title</Key>
@@ -979,15 +979,15 @@ Cairo, Egypt]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CanopicChest_Section1_Question</Key>
-    <Value>BACKGROUND</Value>
+    <Value>POPIS</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CanopicChest_Section1_Answer_1</Key>
-    <Value><![CDATA[An intact canopic chest discovered at a recent dig by Dr. Samuel Lessing, archaeologist.  It’s believed to be the chest of Horemheb who was one of Tutankhamen’s generals.  Horemheb later became a pharaoh himself.]]></Value>
+    <Value><![CDATA[Nedotčená kanopická schrána objevená při nedávných vykopávkých archeologem Dr. Samuelem Lessingem.  Má se za to, že schrána patří Horemhebovi, jednomu z Tutanchamonových generálů.  Horemheb se později sám také stal faraónem.]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CanopicChest_Section2_Category</Key>
-    <Value>Canopic Chest</Value>
+    <Value>Kanopický schrána</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CanopicChest_Section2_Title</Key>
@@ -995,15 +995,15 @@ Cairo, Egypt]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CanopicChest_Section2_Question</Key>
-    <Value>JOB</Value>
+    <Value>ÚKOL</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CanopicChest_Section2_Answer_1</Key>
-    <Value>Examine chest and documents for authenticity.</Value>
+    <Value>Ověř pravost schrány a průvodních dokumentů.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CanopicChest_Section3_Category</Key>
-    <Value>Canopic Chest</Value>
+    <Value>Kanopská schrána</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CanopicChest_Section3_Title</Key>
@@ -1011,16 +1011,16 @@ Cairo, Egypt]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CanopicChest_Section3_Question</Key>
-    <Value>CONTACT DETAILS</Value>
+    <Value>DETAILY KONTAKTU</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CanopicChest_Section3_Answer_1</Key>
-    <Value><![CDATA[Mr. Youssef Masri, Masri's Treasures, 22 Bahr al-Azam. Cairo, Egypt
+    <Value><![CDATA[Youssef Masri, Masriho poklady, 22 Bahr al-Azam. Káhira, Egypt
 ]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CanopicChest_Section4_Category</Key>
-    <Value>Canopic Chest</Value>
+    <Value>Kanopská schrána</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CanopicChest_Section4_Title</Key>
@@ -1028,15 +1028,15 @@ Cairo, Egypt]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CanopicChest_Section4_Question</Key>
-    <Value>RECTOR APPRAISAL</Value>
+    <Value>RECTORŮV POSUDEK</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CanopicChest_Section4_Answer_1</Key>
-    <Value>The chest is genuine, but not belonging to Horemheb. It is the stolen canopic chest of King Tutankhamen, taken from the Cairo Museum in 1992, defaced in an attempt to pass it off as Horemheb's.</Value>
+    <Value>Schrána je pravá, ale nepatří Horemhebovi. Je to kanopická schrána krále Tutanchamona, ukradená z Egyptského muzea v Káhiře v roce 1992 a nechutně pomalována za účelem vydávat ji za Horemhebovu.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_Abstract_Category</Key>
-    <Value>Caroline Alfonse</Value>
+    <Value>Caroline Alfonsová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_Abstract_Title</Key>
@@ -1050,12 +1050,12 @@ Cairo, Egypt]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_Abstract_Answer_1</Key>
-    <Value><![CDATA[FITA, Amble Dexter
-Paris, France]]></Value>
+    <Value><![CDATA[ABZT, Amble Dexter
+Paříž, Francie]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Beautiful_Category</Key>
-    <Value>Caroline Alfonse</Value>
+    <Value>Caroline Alfonsová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Beautiful_Title</Key>
@@ -1063,15 +1063,15 @@ Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Beautiful_Question</Key>
-    <Value>Beautiful</Value>
+    <Value>Krásná</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Beautiful_Answer_1</Key>
-    <Value>A beautiful young woman, she was the commercial face of a cosmetics company for a year.</Value>
+    <Value>Krásná mladá žena. Rok byla tváří kosmetické značky.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Bloodlines_Category</Key>
-    <Value>Caroline Alfonse</Value>
+    <Value>Caroline Alfonsová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Bloodlines_Title</Key>
@@ -1079,15 +1079,15 @@ Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Bloodlines_Question</Key>
-    <Value>Bloodlines</Value>
+    <Value>Pokrevní linie</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Bloodlines_Answer_1</Key>
-    <Value>She is descended on her father's side from the Capetians and the Bourbons, two prominent French families.</Value>
+    <Value>Z otcovy strany je potomkem Kapetovců a Bourbonů, dvou předních francouzských rodů.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Divorce_Category</Key>
-    <Value>Caroline Alfonse</Value>
+    <Value>Caroline Alfonsová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Divorce_Title</Key>
@@ -1095,15 +1095,15 @@ Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Divorce_Question</Key>
-    <Value>Divorce</Value>
+    <Value>Rozvod</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Divorce_Answer_1</Key>
-    <Value>Her first engagement was broken off only a few months in for "personal reasons".</Value>
+    <Value>Své první zasnoubení zrušila už po pár měšíc, údajně z "osobních důvodů".</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_FamilyBusiness_Category</Key>
-    <Value>Caroline Alfonse</Value>
+    <Value>Caroline Alfonsová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_FamilyBusiness_Title</Key>
@@ -1111,15 +1111,15 @@ Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_FamilyBusiness_Question</Key>
-    <Value>Family Business</Value>
+    <Value>Rodinné obchody</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_FamilyBusiness_Answer_1</Key>
-    <Value>She's involved behind-the-scenes in her father's business.</Value>
+    <Value>Je skrytě zapojená do obchodů svého otce.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Infidelity_Category</Key>
-    <Value>Caroline Alfonse</Value>
+    <Value>Caroline Alfonsová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Infidelity_Title</Key>
@@ -1127,15 +1127,15 @@ Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Infidelity_Question</Key>
-    <Value>Infidelity</Value>
+    <Value>Nevěra</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Infidelity_Answer_1</Key>
-    <Value>Her parents divorced over her father's infidelity.</Value>
+    <Value>Její rodiče se rozvedli z důvdu nevěry jejího otce.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Intelligent_Category</Key>
-    <Value>Caroline Alfonse</Value>
+    <Value>Caroline Alfonsová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Intelligent_Title</Key>
@@ -1143,15 +1143,15 @@ Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Intelligent_Question</Key>
-    <Value>Intelligent</Value>
+    <Value>Inteligentní</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Intelligent_Answer_1</Key>
-    <Value>She has a degree in Economics from an elite Parisian university.</Value>
+    <Value>Má titul z ekonomie z prestižní pařížské univerzity.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Married_Category</Key>
-    <Value>Caroline Alfonse</Value>
+    <Value>Caroline Alfonsová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Married_Title</Key>
@@ -1159,15 +1159,15 @@ Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Married_Question</Key>
-    <Value>Married</Value>
+    <Value>Vdaná</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Married_Answer_1</Key>
-    <Value>She was engaged at 19 to a 43-year-old politician. </Value>
+    <Value>V 19 letech byla zasnoubená s 43letým politikem.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_MarriedAgain_Category</Key>
-    <Value>Caroline Alfonse</Value>
+    <Value>Caroline Alfonsová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_MarriedAgain_Title</Key>
@@ -1175,15 +1175,15 @@ Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_MarriedAgain_Question</Key>
-    <Value>Married Again</Value>
+    <Value>Druhé manželství</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_MarriedAgain_Answer_1</Key>
-    <Value>Engaged for a second time, at the age of 21, to marry a 55-year-old man for business reasons.</Value>
+    <Value>Podruhé se zasnoubila v 21 letech s 55letým mužem z obchodních důvodů.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Politics_Category</Key>
-    <Value>Caroline Alfonse</Value>
+    <Value>Caroline Alfonsová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Politics_Title</Key>
@@ -1191,15 +1191,15 @@ Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Politics_Question</Key>
-    <Value>Politics</Value>
+    <Value>Politika</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Politics_Answer_1</Key>
-    <Value>She has an interest in politics.</Value>
+    <Value>Zajímá se o politiku.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Wealthy_Category</Key>
-    <Value>Caroline Alfonse</Value>
+    <Value>Caroline Alfonsová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Wealthy_Title</Key>
@@ -1207,15 +1207,15 @@ Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Wealthy_Question</Key>
-    <Value>Bankrupt</Value>
+    <Value>Bankrot</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_DataPoint_Wealthy_Answer_1</Key>
-    <Value>Her father is nearly bankrupt.</Value>
+    <Value>Její otec je téměř na mizině.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_Section1_Category</Key>
-    <Value>Caroline Alfonse</Value>
+    <Value>Caroline Alfonsová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_Section1_Title</Key>
@@ -1224,15 +1224,15 @@ Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_Section1_Question</Key>
-    <Value>BACKGROUND</Value>
+    <Value>POPIS</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_Section1_Answer_1</Key>
-    <Value>The daughter of wealthy businessman Henri Alfonse, Caroline is descended from both the Capetians and the Bourbons.</Value>
+    <Value>Dcera zámožného obchodníka Henri Alfonse. Caroline pochází z rodů Kapetovců a Bourbonů.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_Section2_Category</Key>
-    <Value>Caroline Alfonse</Value>
+    <Value>Caroline Alfonsová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_Section2_Title</Key>
@@ -1241,15 +1241,15 @@ Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_Section2_Question</Key>
-    <Value>JOB</Value>
+    <Value>ÚKOL</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_Section2_Answer_1</Key>
-    <Value>Determine if Caroline's life pattern fits that of Livia Drusilla.</Value>
+    <Value>Zjisti, zda se Carolinin život shoduje se životem Livie Drusilly.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_Section3_Category</Key>
-    <Value>Caroline Alfonse</Value>
+    <Value>Caroline Alfonsová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_Section3_Title</Key>
@@ -1258,16 +1258,16 @@ Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_Section3_Question</Key>
-    <Value>CONTACT DETAILS</Value>
+    <Value>DETAILY KONTAKTU</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_Section3_Answer_1</Key>
-    <Value><![CDATA[Alfonse Home in Paris, France
-Bibliotheque Nationale in Paris, France]]></Value>
+    <Value><![CDATA[Dům Alfonsových, Paříž, Francie
+Bibliotheque Nationale, Paříž, Francie]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_Section4_Category</Key>
-    <Value>Caroline Alfonse</Value>
+    <Value>Caroline Alfonsová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_Section4_Title</Key>
@@ -1276,11 +1276,11 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_Section4_Question</Key>
-    <Value>RECTOR ANALYSIS</Value>
+    <Value>REKTOROVA ANALÝZA</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_CarolineAlfonse_Section4_Answer_1</Key>
-    <Value><![CDATA[Caroline Alfonse is not Livia Drusilla. Though she shares many of Livia's personality traits and interests, her family's financial state is in shambles, and Livia’s family wealth was critical to Augustus Caesar’s success.  She is also engaged for a second time to a much older man--an arrangement which is for business reasons, unlike Livia’s second marriage to Augustus for love.]]></Value>
+    <Value><![CDATA[Caroline Alfonsová není Livia Drusilla. přestože mají mnoho společnách osobnostních rysů a zájmů, finance její rodiny jsou v troskách, kdežto finanční zázemí Livie Drusilly bylo klíčové pro úspěch Augusta Caesara.  Je podruhé zasnoubení s mnohem starších mužem a to z finančních důvodů. Naproti tomu, Liviino druhé manželství bylo z lásky.]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_Abstract_Category</Key>
@@ -1311,11 +1311,11 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_DataPoint_Army_Question</Key>
-    <Value>Army</Value>
+    <Value>Armáda</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_DataPoint_Army_Answer_1</Key>
-    <Value>Served in the Army at the rank of Major General</Value>
+    <Value>Sloužil v armádě s hodností generálmajora</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_DataPoint_Command_Category</Key>
@@ -1328,11 +1328,11 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_DataPoint_Command_Question</Key>
-    <Value>Command</Value>
+    <Value>Velení</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_DataPoint_Command_Answer_1</Key>
-    <Value>Accustomed to having total command</Value>
+    <Value>Je zvyklý mít plné velení</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_DataPoint_Connections_Category</Key>
@@ -1345,11 +1345,11 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_DataPoint_Connections_Question</Key>
-    <Value>Connections</Value>
+    <Value>Konexe</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_DataPoint_Connections_Answer_1</Key>
-    <Value>Numerous international political connections</Value>
+    <Value>Četné mezinárodní politcké konexe</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_DataPoint_Daughters_Category</Key>
@@ -1362,11 +1362,11 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_DataPoint_Daughters_Question</Key>
-    <Value>Daughters</Value>
+    <Value>Dcery</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_DataPoint_Daughters_Answer_1</Key>
-    <Value>Two daughters: Older one married to a media mogul. Younger one unmarried.</Value>
+    <Value>Dvě dcery: starší vdaná za mediálního magnáta. Mladší je rozvedená.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_DataPoint_Lobbyist_Category</Key>
@@ -1379,11 +1379,11 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_DataPoint_Lobbyist_Question</Key>
-    <Value>Lobbyist</Value>
+    <Value>Lobbista</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_DataPoint_Lobbyist_Answer_1</Key>
-    <Value>Controls some of the top lobbyist groups</Value>
+    <Value>Ovládá některé ze špičkových lobbistických skupin</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_DataPoint_Presidents_Category</Key>
@@ -1396,11 +1396,11 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_DataPoint_Presidents_Question</Key>
-    <Value>Presidents</Value>
+    <Value>Prezidenti</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_DataPoint_Presidents_Answer_1</Key>
-    <Value>Said to have put Clinton and Obama in the White House</Value>
+    <Value>Říká se, že dosadil do Bílého domu Clintona i Obamu</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_DataPoint_Wealthy_Category</Key>
@@ -1413,11 +1413,11 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_DataPoint_Wealthy_Question</Key>
-    <Value>Wealthy</Value>
+    <Value>Zámožný</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_DataPoint_Wealthy_Answer_1</Key>
-    <Value>Second wealthiest man in the U.S.</Value>
+    <Value>Druhý nejbohatší muž ve Spojených státech</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_DataPoint_Wife_Category</Key>
@@ -1430,11 +1430,11 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_DataPoint_Wife_Question</Key>
-    <Value>Wife</Value>
+    <Value>Manželka</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_DataPoint_Wife_Answer_1</Key>
-    <Value>Wife's family is very wealthy.</Value>
+    <Value>Rodina jeho ženy je velmi bohatá.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_Section1_Category</Key>
@@ -1447,11 +1447,11 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_Section1_Question</Key>
-    <Value>BACKGROUND</Value>
+    <Value>POPIS</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_Section1_Answer_1</Key>
-    <Value>Dominique admitted to working for Douglas Carter and giving him the information about Helene. Douglas Carter is an extremely wealthy and influential political backer, said to be responsible for getting Clinton and Obama into the Presidential offices.</Value>
+    <Value>Dominique přiznala, že pracuje pro Douglase Cartera a podává mu informace o Helene. Douglas Carter je extrémně movitý a vlivný politický hráč v politickém zákulisí. Proslýchá se, že je odpovědný za dosazení Clintona and Obamy do prezidentského úřadu.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_Section2_Category</Key>
@@ -1464,11 +1464,11 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_Section2_Question</Key>
-    <Value>JOB</Value>
+    <Value>ÚKOL</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_Section2_Answer_1</Key>
-    <Value>Prove my potential worth to Carter by identifying his pattern so I can learn what's happened to David Walker.</Value>
+    <Value>Ukaž Carterovi svou užitečnost tím, že identifikuješ jeho životní příběh, abych zjistil, co se stalo s Davidem Walkerem.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_Section3_Category</Key>
@@ -1481,7 +1481,7 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_Section3_Question</Key>
-    <Value>CONTACT DETAILS</Value>
+    <Value>DETAILY KONTAKTU</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_Section3_Answer_1</Key>
@@ -1498,11 +1498,11 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_Section4_Question</Key>
-    <Value>RECTOR ANALYSIS</Value>
+    <Value>RECTOROVA ANALÝZA</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Carter_Section4_Answer_1</Key>
-    <Value>Douglas Carter is a match for Richard Neville, 16th Earl of Warwick, often called “The Kingmaker.” A rich, influential man, he used his military success, wealth and network of connections to become one of the most important men in Britain in his day, putting two kings on the throne of England, and marrying his daughter to a future king.</Value>
+    <Value>Douglas Carter se shoduje s Richardem Nevillem, šestnáctým vévodou z Warwicku, také známým jako “Králotvůrce.” Tento bohatý a vlivný muž využil svých vojenských úspěchů, bohatství a sítě kontaktů a stal se ve své době jedním nejdůležistějších mužů Británie. Dvěma králům pomohl k nástupu na trůn a svou mladší dceru provdal za nastůpce trůnu.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_Abstract_Category</Key>
@@ -1533,11 +1533,11 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_Assassins_Question</Key>
-    <Value>Assassins</Value>
+    <Value>Vrahové</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_Assassins_Answer_1</Key>
-    <Value>Targeted by Chinese or Chinese Americans for assassination (unsuccessfully)</Value>
+    <Value>Terčem čínských nebo čínsko-amerických nájemných vrahů (neúspešně)</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_BachelorArts_Category</Key>
@@ -1550,11 +1550,11 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_BachelorArts_Question</Key>
-    <Value>Bachelor of Arts</Value>
+    <Value>Bakalář</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_BachelorArts_Answer_1</Key>
-    <Value>Has a BA in military history</Value>
+    <Value>Má bakalářský titul z historie vojenství</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_Estranged_Category</Key>
@@ -1567,11 +1567,11 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_Estranged_Question</Key>
-    <Value>Estranged</Value>
+    <Value>Chladné vztahy</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_Estranged_Answer_1</Key>
-    <Value>Estranged from his parents</Value>
+    <Value>Nestýká se svými rodiči</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_JoinedArmy_Category</Key>
@@ -1584,11 +1584,11 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_JoinedArmy_Question</Key>
-    <Value>Joined Army</Value>
+    <Value>Služba u armády</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_JoinedArmy_Answer_1</Key>
-    <Value>Joined the army at 20; served for 10 years</Value>
+    <Value>Narukoval ve 20 letech, sloužil 10 let</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_LeftArmy_Category</Key>
@@ -1601,11 +1601,11 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_LeftArmy_Question</Key>
-    <Value>Left Army</Value>
+    <Value>Odešel z armády</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_LeftArmy_Answer_1</Key>
-    <Value>Left the Army after losing faith in his mission</Value>
+    <Value>Odešel z armády poté, co ztratil důvěru ve svou misi</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_Samaritan_Category</Key>
@@ -1618,11 +1618,11 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_Samaritan_Question</Key>
-    <Value>Samaritan</Value>
+    <Value>Samaritán</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_Samaritan_Answer_1</Key>
-    <Value>Good Samaritan; willing to go out of his way to help others in need</Value>
+    <Value>Milosrdný samaritán; ochotný nezištně pomoci těm v nouzi</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_Sister_Category</Key>
@@ -1635,11 +1635,11 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_Sister_Question</Key>
-    <Value>Sister</Value>
+    <Value>Sestra</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_Sister_Answer_1</Key>
-    <Value>Has just one sibling, a sister</Value>
+    <Value>Má pouze jednoho sourozence, sestru</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_SmallTown_Category</Key>
@@ -1652,11 +1652,11 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_SmallTown_Question</Key>
-    <Value>Small Town</Value>
+    <Value>Maloměsto</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_SmallTown_Answer_1</Key>
-    <Value>Grew up in a small town in Indiana, USA</Value>
+    <Value>Vyrostl na maloměstě v Indianě ve Spojených státech</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_SpecialForces_Category</Key>
@@ -1669,11 +1669,11 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_SpecialForces_Question</Key>
-    <Value>Special Forces</Value>
+    <Value>Speciální jednotky</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_SpecialForces_Answer_1</Key>
-    <Value><![CDATA[Was in a highly elite branch of the military (Green Beret)
+    <Value><![CDATA[Byl součástí elitních armádních sil (Zelené barety)
 ]]></Value>
   </Entry>
   <Entry>
@@ -1687,11 +1687,11 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_Traveled_Question</Key>
-    <Value>Traveled</Value>
+    <Value>Zcestovalý</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_Traveled_Answer_1</Key>
-    <Value>Traveled abroad extensively</Value>
+    <Value>Rozsáhlé cesty do zahraniční</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_Unmarried_Category</Key>
@@ -1704,11 +1704,11 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_Unmarried_Question</Key>
-    <Value>Unmarried</Value>
+    <Value>Rozvedený</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_DataPoint_Unmarried_Answer_1</Key>
-    <Value>Unmarried at 31 (DOB May 10, 1983)</Value>
+    <Value>Rozvedl se v 31 letech (datum narození 10. května 1983)</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_Section1_Category</Key>
@@ -1721,11 +1721,11 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_Section1_Question</Key>
-    <Value>BACKGROUND</Value>
+    <Value>POPIS</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_Section1_Answer_1</Key>
-    <Value>David Walker, former Army captain and member of the U.S. Army Special Forces. Originally encountered in Cairo; targeted by the same assassins encountered in Venice. He's also of interest to FITA.</Value>
+    <Value>David Walker, bývalý armádní kapitán a člen amerických speciálních sil. Původně střetnut v Káhiře; cílem stejných nájhemných vrahů označených v Benátkách. Je také osoba zámu pro ABZT.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_Section2_Category</Key>
@@ -1738,11 +1738,11 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_Section2_Question</Key>
-    <Value>JOB</Value>
+    <Value>ÚKOL</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_Section2_Answer_1</Key>
-    <Value>Determine if David Walker fits the pattern of any known person in history.</Value>
+    <Value>Zjisti, zda život Davida Walkera odpovídá některému ze známých osobností historie.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_Section3_Category</Key>
@@ -1755,7 +1755,7 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_Section3_Question</Key>
-    <Value>CONTACT DETAILS</Value>
+    <Value>DETAILY KONTAKTU</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_Section3_Answer_1</Key>
@@ -1772,11 +1772,11 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_Section4_Question</Key>
-    <Value>RECTOR ANALYSIS</Value>
+    <Value>RECTOROVA ANALÝZA</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_Section4_Answer_1</Key>
-    <Value>Inconclusive. Walker possibly fits several historic persons, but narrowing it down to one is impossible without further data. I need the information Dexter has, which he's promised to give me after I complete this assignment.</Value>
+    <Value>Nejdnoznačné. Walker může odpovídat několika historickým osobnostem, ale zúžení je nemožné bez dalších údajů. Potřebuji informace, které má Dexter a které mi slíbil dát poté, co splním tento úkol.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_Section5_Category</Key>
@@ -1789,11 +1789,11 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_Section5_Question</Key>
-    <Value>RECTOR ANALYSIS</Value>
+    <Value>RECTOROVA ANALÝZA</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_Section5_Answer_1</Key>
-    <Value>Inconclusive, but while in the Paris catacombs observing the tomb of St. Armand, I experienced a visual hallucination of the knight overlaying Walker. Is Walker St. Armand?</Value>
+    <Value>Nejdnoznačné, ale při prozkoumávání hrobky svatého Armanda v pařížských katakombách jsem zažil vizuální halucinaci rytíře prolínajícího se Walkerem. Je Walker svatý Armand?</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_Section6_Category</Key>
@@ -1806,15 +1806,15 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_Section6_Question</Key>
-    <Value>RECTOR ANALYSIS</Value>
+    <Value>RECTOROVA ANALÝZA</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_DavidWalker_Section6_Answer_1</Key>
-    <Value>Walker is an archetype: the Warrior. Supposedly, he is tied to the Savant in some way still undefined.</Value>
+    <Value>Walker je archetyp: Válečník. Údajně je nějakým stále ještě neznámým způsobem navázán na Učence.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_Abstract_Category</Key>
-    <Value>Dominique Freyre</Value>
+    <Value>Dominique Freyreová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_Abstract_Title</Key>
@@ -1832,7 +1832,7 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_DataPoint_Breakup_Category</Key>
-    <Value>Dominique Freyre</Value>
+    <Value>Dominique Freyreová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_DataPoint_Breakup_Title</Key>
@@ -1841,15 +1841,15 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_DataPoint_Breakup_Question</Key>
-    <Value>Breakup</Value>
+    <Value>Rozchod</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_DataPoint_Breakup_Answer_1</Key>
-    <Value>A past break-up ended badly when her boyfriend left her for another woman</Value>
+    <Value>Zažila těžký rozchod, když ji její přítel opustil kvůli jiné ženě</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_DataPoint_Doctor_Category</Key>
-    <Value>Dominique Freyre</Value>
+    <Value>Dominique Freyreová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_DataPoint_Doctor_Title</Key>
@@ -1858,15 +1858,15 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_DataPoint_Doctor_Question</Key>
-    <Value>Doctor</Value>
+    <Value>Doktorka</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_DataPoint_Doctor_Answer_1</Key>
-    <Value>She's a doctor of toxicology</Value>
+    <Value>Je doktorkou toxikologie</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_DataPoint_Family_Category</Key>
-    <Value>Dominique Freyre</Value>
+    <Value>Dominique Freyreová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_DataPoint_Family_Title</Key>
@@ -1875,15 +1875,15 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_DataPoint_Family_Question</Key>
-    <Value>Family</Value>
+    <Value>Rodina</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_DataPoint_Family_Answer_1</Key>
-    <Value>Estranged from her family due to a past relationship</Value>
+    <Value>Nestýká se svou rodinu kvůli předchozím vztahům</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_DataPoint_Jealous_Category</Key>
-    <Value>Dominique Freyre</Value>
+    <Value>Dominique Freyreová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_DataPoint_Jealous_Title</Key>
@@ -1892,15 +1892,15 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_DataPoint_Jealous_Question</Key>
-    <Value>Jealous</Value>
+    <Value>Žárlivá</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_DataPoint_Jealous_Answer_1</Key>
-    <Value>She's a very jealous person</Value>
+    <Value>Je velmi žárlivá</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_DataPoint_Poison_Category</Key>
-    <Value>Dominique Freyre</Value>
+    <Value>Dominique Freyrová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_DataPoint_Poison_Title</Key>
@@ -1909,15 +1909,15 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_DataPoint_Poison_Question</Key>
-    <Value>Poison</Value>
+    <Value>Jed</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_DataPoint_Poison_Answer_1</Key>
-    <Value>Poisoned a rival</Value>
+    <Value>Otrávila sokyni</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_DataPoint_Vain_Category</Key>
-    <Value>Dominique Freyre</Value>
+    <Value>Dominique Freyrová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_DataPoint_Vain_Title</Key>
@@ -1926,15 +1926,15 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_DataPoint_Vain_Question</Key>
-    <Value>Vain</Value>
+    <Value>Marnivá</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_DataPoint_Vain_Answer_1</Key>
-    <Value>Extremely vain, self-centered and egotistical; loves to look at herself.</Value>
+    <Value>Extrémně marnivá, sebestředná a egoistická; ráda se prohlíží.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_Section1_Category</Key>
-    <Value>Dominique Freyre</Value>
+    <Value>Dominique Freyreová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_Section1_Title</Key>
@@ -1943,15 +1943,15 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_Section1_Question</Key>
-    <Value>BACKGROUND</Value>
+    <Value>POPIS</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_Section1_Answer_1</Key>
-    <Value>Dominique Freyre is the ex-girlfriend of Senator Stephen Markham. When he received the e-mail from Dexter about Helene, she got him to leave her alone in the office, giving her time to forward it to someone. She must be the mole! But how did that lead to their kidnapping?</Value>
+    <Value>Dominique Freyreová je bývalá přítelkyně senátora Stephena Markhama. Když dostal e-mail od Dextera ohledně Helene, přiměla ho nechat ji o samotně v jeho kanceláři, čímž získala dost času, aby ho někomu přeposala. Ona musí být onen dvojitý agent! Ale jak to přispělo k jejich únosu?</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_Section2_Category</Key>
-    <Value>Dominique Freyre</Value>
+    <Value>Dominique Freyreová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_Section2_Title</Key>
@@ -1960,15 +1960,15 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_Section2_Question</Key>
-    <Value>JOB</Value>
+    <Value>ÚKOL</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_Section2_Answer_1</Key>
-    <Value>Identify Dominique's pattern and find out how to gain her trust and learn who she's working for.</Value>
+    <Value>Identifikuj Dominičin životní vzorec a zjisti, jak nabýt její důvěru a zjistit tak pro koho pracuje.</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_Section3_Category</Key>
-    <Value>Dominique Freyre</Value>
+    <Value>Dominique Freyreová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_Section3_Title</Key>
@@ -1977,7 +1977,7 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_Section3_Question</Key>
-    <Value>CONTACT DETAILS</Value>
+    <Value>DETAILY KONTAKTU</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_Section3_Answer_1</Key>
@@ -1985,7 +1985,7 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_Section4_Category</Key>
-    <Value>Dominique Freyre</Value>
+    <Value>Dominique Freyreová</Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_Section4_Title</Key>
@@ -1994,5 +1994,5 @@ Bibliotheque Nationale in Paris, France]]></Value>
   </Entry>
   <Entry>
     <Key>HintPage_Dossier_Freyre_Section4_Question</Key>
-    <Value>RECTOR ANALYSIS</Value>
+    <Value>RECTOROVA ANALÝZA</Value>
   </Entry>
